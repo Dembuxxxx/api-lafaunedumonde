@@ -62,6 +62,64 @@ p {
 
 
 
+header.masthead {
+    position: relative;
+    padding-top: calc(8rem + 57px);
+    margin-bottom: 3rem;
+    padding-bottom: 8rem;
+    background: no-repeat center center;
+    background-color: #6c757d;
+    background-size: cover;
+    background-attachment: scroll;
+
+}
+ 
+header.masthead:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #212529;
+    opacity: 0.5;
+    
+}
+
+footer{
+    font-weight:bold;
+    font-size: medium;
+    font-family:'Cambria, Cochin, Georgia, Times, 'Times New Roman', serif';
+    background-color:burlywood;
+    background-size: cover;
+    background-attachment: scroll;
+    color: black;
+   
+   
+   
+   }
+
+   div .card {
+    text-align: center;
+    color:darkred;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+    
+
+
+   }
+
+   img {
+    border-radius: 10px;
+    box-shadow: 5px 5px 3px 1px rgba(0, 0, 0, 0.7);
+    margin-top: 50px;
+    
+
+   }
+
+
+
+
 
 
 
