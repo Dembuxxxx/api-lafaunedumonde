@@ -6,3 +6,63 @@
 }
 
 @import url('https://fonts.googleapis.com/css2? family = Advent + Pro & family = Dancing + Script: wght @ 500 & display = swap');
+
+html,body {
+    height:100%;
+  }
+  body {
+    margin:0;
+    padding:0;
+    background-color:cadetblue;
+    -webkit-font-smoothing: antialiased;
+}
+a:hover{text-decoration: none;}
+
+.navbar-brand{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 600;
+}
+
+
+h1 {
+    font-weight: bolder;
+    text-align:center;
+    color:coral;
+    font-size: 6em;
+    margin-top: 90px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+h2 {
+    font-weight: bolder;
+    text-align:center;
+    color:darkgoldenrod;
+    font-size: 6em;
+    margin-top: 90px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+
+}
+
+p {
+    font-weight: bolder;
+    text-align:center;
+    color:darkgoldenrod;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+}
+
+
+
+
+
+
+
+
+
+
